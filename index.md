@@ -16,3 +16,5 @@ As we all know:
 > der Mond ist rund,
 > er hat zwei Augen,
 > Nas und Mund.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Eintracht_Frankfurt_Logo.svg"/>
