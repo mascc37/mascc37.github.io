@@ -9,3 +9,10 @@ Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incid
 * mango
 * pears
 * Plüschprüm
+
+As we all know:
+
+> Der Mond ist rund,
+> der Mond ist rund,
+> er hat zwei Augen,
+> Nas und Mund.
